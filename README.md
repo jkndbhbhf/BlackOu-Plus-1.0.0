@@ -6,9 +6,9 @@ Java要求 : 20
 
 Minecraft版本要求: 1.20.1
 
-Meteor Client下载：https://www.meteorclient.com/
-
 BlackOut是Meteor中强大的cpvp插件
+
+Meteor Client下载：https://www.meteorclient.com/
 
 原版：https://github.com/KassuK1/BlackOut/releases
 
