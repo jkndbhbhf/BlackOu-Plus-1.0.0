@@ -14,4 +14,6 @@ Meteor Client下载：https://www.meteorclient.com/
 
 下载链接：https://github.com/jkndbhbhf/BlackOu-Plus-1.0.0/releases
 
+我的个人主页： https://space.bilibili.com/2131817699?spm_id_from=333.1007.0.0
+
 ![kk](https://github.com/jkndbhbhf/BlackOu-Plus-1.0.0/assets/136801096/980b0e8d-d6bc-4fe6-9ea0-9a95eb505757)
